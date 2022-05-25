@@ -62,8 +62,8 @@
 
 ## 3 设计模式之间的关系
 
-![设计模式之间的关系](https://xie.infoq.cn/article/f9947d7e079214af1d701559b)
-![设计模式之间的关系](https://xie.infoq.cn/article/10bd1a3fb16266b5e81430fc0)
+创建和结构设计模式之间的关系https://xie.infoq.cn/article/f9947d7e079214af1d701559b
+行为设计模式之间的关系https://xie.infoq.cn/article/10bd1a3fb16266b5e81430fc0
 
 ## 4 设计模式六大原则
 
